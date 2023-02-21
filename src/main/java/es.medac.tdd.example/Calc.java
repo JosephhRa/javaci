@@ -8,7 +8,7 @@ public class Calc {
     this.a=i;
     this.b=i1;
   }
-
+dddd
   public Integer sumar() {
 
     return this.a+this.b;
